@@ -10,7 +10,7 @@ We build fast, privacy-first weather tools — free to use, no accounts needed.
 **How we're different:**
 
 - No tracking, no cookies, no personal data collection
-- All weather data from open governmental sources (Copernicus, ECMWF, Open-Meteo)
+- All weather data from open governmental sources (Copernicus, ECMWF, [Open-Meteo](https://open-meteo.com/))
 - Built with Next.js, open APIs, served via Cloudflare
 
 [simplemeteo.com](https://simplemeteo.com) · [Contact](https://simplemeteo.com/contact)
