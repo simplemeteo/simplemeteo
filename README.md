@@ -8,6 +8,7 @@ We build fast, privacy-first weather tools — free to use, no accounts needed.
 - ☀️ [UVI Today](https://uvi.today) — UV index forecast with WHO protection guidelines. Satellite data from Copernicus CAMS. 10 languages.
 - 🌿 [Pollen Today](https://pollen.today) — Pollen & allergen forecasts for allergy sufferers.
 - 💨 [Air Index Today](https://airindex.today) — Air quality forecasts across the globe.
+- 🌀 [Barometer Today](https://barometer.today) — Barometric data for cities across the globe.
 
 **How we're different:**
 
